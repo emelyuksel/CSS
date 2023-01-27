@@ -1,0 +1,26 @@
+/*** Layout ****/
+
+.text-position {
+    text-align: center;
+    
+}
+
+body{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    color: brown;
+    font-size: 40px;
+
+}
+h2{
+    color: firebrick;
+    font-size: 30px;
+}
+h3{
+    color: darkred;
+    font-size: 30px;
+}
