@@ -1,0 +1,67 @@
+/*** Body ****/
+body{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+.float{
+    float: left;
+}
+.clear{
+    clear:both
+}
+
+.bg-blue{
+    background-color: rgb(217, 241, 233);
+    width: 1400px;
+    height: 60px;
+    margin-left: 3px;
+    text-align: center;
+    margin-left: 50px;
+    margin-inline-end: 0px;
+}
+
+.bg-light{
+    background-color: rgb(111, 212, 182);
+    float: left;
+    margin: 5px;
+    padding: 40px;
+    width: 300px;
+    height: 20px;
+    margin-left: 50px;
+    margin-inline-end: 0px;
+    font-size: small;
+   
+
+}
+.bg-medium{
+    background-color: rgb(109, 194, 168);
+    float: left;
+    margin: 5px;
+    padding: 40px;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-inline-end: 0px;
+    font-size: small;
+    
+}
+.bg-dark{
+    background-color: rgb(63, 184, 184);
+    float:left;
+    margin: 5px;
+    padding: 40px;
+    border: 50px;
+    width: 480px;
+    height: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-inline-end: 0px;
+    margin-right: 5%;
+    font-size: small;
+}
